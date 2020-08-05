@@ -1,4 +1,13 @@
-# EBM DataLab's skeleton notebook environment
+
+This www.OpenPrescribing.net repository seeks to answer "What are the most commonly prescribed medicines?" ALl the code is available for inspection and re-use and we have written a blog post on the [Top 10 medicines in the NHS for 2019](https://ebmdatalab.net/top10-medicines-2019/) on our DataLab website.
+
+If you have any questions or comments please feel free to get in touch via feedback@openprescribing.net or on Twitter @openprescribing
+
+
+
+
+
+# If you would like to reuse EBM DataLab's skeleton notebook environment the following information will be helpful
 
 ![status](https://github.com/ebmdatalab/<repo>/workflows/Notebook%20checks/badge.svg)
 
